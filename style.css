@@ -97,6 +97,11 @@ h3.resumo{
 
 }
 
+h3.copy{
+    padding:12px ;
+padding-bottom: 0px;    
+
+}
 
 img{
     width: 35%;
@@ -110,7 +115,6 @@ img.footer{
     height: 20%;
     padding-left: 15px;
     border-radius: 0px ;
-
 }
 
 ul{
