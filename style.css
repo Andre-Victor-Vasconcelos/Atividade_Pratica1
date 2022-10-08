@@ -4,16 +4,15 @@
   box-sizing: 0;
 }
 
+
 h1{padding-left: 50px;
     background-image: linear-gradient(to right, rgb(51, 50, 50) ,  rgb(212, 209, 209)) ;
     color: white;
-    border-style: groove;
 
 }
 
 p{
-    
-    background-image: linear-gradient(to right, rgb(51, 50, 50) ,  rgb(212, 209, 209));
+    background-image: linear-gradient(to right, rgb(55, 55, 55) ,  rgb(212, 209, 209));
     color: white;
     font-size: medium;
 
@@ -102,15 +101,16 @@ h3.resumo{
 img{
     width: 35%;
     height: 20%;
- padding-left: 15px;
- border-radius: 25px 25px 25px 25px ;
+    padding-left: 15px;
+    border-radius: 25px 25px 25px 25px ;
 }
 
 img.footer{
     width: 5%;
     height: 20%;
- padding-left: 15px;
- border-radius: 25px 25px 25px 25px ;
+    padding-left: 15px;
+    border-radius: 0px ;
+
 }
 
 ul{
