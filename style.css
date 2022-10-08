@@ -91,7 +91,7 @@ h3{
 }
 
 h3.resumo{
-    padding:2px ;
+    padding:0.1px ;
     padding-left: 25px;
     font-weight: lighter;
 
@@ -117,7 +117,16 @@ img.footer{
     border-radius: 0px ;
 }
 
+img.projeto{
+    padding: 20px;
+}
+
 ul{
 padding-left: 60px;
 padding-top: 20px;
+}
+
+ul{ 
+    padding: 15px;
+    padding-left: 25px;
 }
